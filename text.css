@@ -1,0 +1,22 @@
+.para1 {
+    color: chartreuse ;
+}
+
+body {
+    background-image: url(photos/sky9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#intro {  
+    font-size: 80px;
+    margin-right: 1000px;
+    margin-left: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: black;
+    color: indigo;
+
+}
